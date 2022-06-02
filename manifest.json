@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Scribd pages reveal - (Next name: Open doors)",
     "version": "1.0.1",
     "description": "Chrome extension for Scribd Document pages revealing without subscribing.",
