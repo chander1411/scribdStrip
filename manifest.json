@@ -16,10 +16,5 @@
             ],
             "js": ["./scribd.com/content.js"]
         }
-    ],
-    "permissions": ["tabs"],
-    "action": {
-        "default_icon": "./general_logo.png",
-        "default_popup": "./scribd.com/popup/index.html"
-    }
+    ]
 }
